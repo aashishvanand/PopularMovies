@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">PopularMovies</string>
+    <string name="action_settings">Sort Movies</string>
+    <string name="pref_sorting_criteria_key">sorting_criteria</string>
+
+    <string name="pref_sorting_order_key">sorting_order</string>
+    <string name="pref_sorting_order_default_value">desc</string>
+    <string name="pref_sorting_criteria_default_value">popularity</string>
+    <string name="title_activity_movie_details">Movie Details</string>
+
+    <string name="popularity">popularity</string>
+    <string name="vote_count">vote_count</string>
+    <string name="revenue">revenue</string>
+    <string name="Upcoming">Upcoming</string>
+    <string name="release_date">release_date</string>
+    <string name="most_popular">Most Popular</string>
+    <string name="highest_rated">Highest Rated</string>
+    <string name="revenueT">Revenue</string>
+
+    <string name="overview">Overview</string>
+    <string name="BaseURL">http://api.themoviedb.org/3/discover/movie</string>
+    <string name="ImageURL">http://image.tmdb.org/t/p/w185</string>
+    <string name="API_KEY">Your API KEY</string>
+
+
+</resources>
